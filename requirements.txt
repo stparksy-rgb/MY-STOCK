@@ -5,3 +5,4 @@ plotly
 openpyxl
 xlsxwriter
 yfinance
+pandas_ta
