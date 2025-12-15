@@ -1,9 +1,5 @@
 streamlit
-finance-datareader
+yfinance
 pandas
-pandas_ta
 plotly
-openpyxl
-xlsxwriter
-requests
-beautifulsoup4
+numpy
